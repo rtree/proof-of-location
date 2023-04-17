@@ -11,4 +11,4 @@ Historically, our human have used to define boundaries for security, ownership, 
 
 Location verification, secured GPS coordinates are the missing piece to tokenize everything in our world.
 
-![Concept](concept.gif) 
+![Concept](https://github.com/rtree/proof-of-location/blob/main/concept.jpg) 
